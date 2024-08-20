@@ -6,4 +6,4 @@ labels:
   v2.0:           # 'v2.0' label pointing to the commit tagged 'v2.0'
     tag: v2.0
   specificCommit: # 'specificCommit' label pointing a single commit
-    commitHash: aed2f40b9ef115ea3a6eb5273dad56f0ddcffa39
+    commitHash: 182837058546e5b20985cb18882971f3a165d25a
